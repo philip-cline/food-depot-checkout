@@ -1,0 +1,60 @@
+{
+    "title": "Product Master List",
+    "epicerieList": [
+        {
+            "item": "Milk (2%)",
+            "price": 2.00,
+            "img": ""
+        },
+        {
+            "item": "Milk (3.25%)",
+            "price": 2.00,
+            "img": ""
+        },
+        {
+            "item": "Eggs (white)",
+            "price": 3.00,
+            "img": ""
+        },
+        {
+            "item": "Soy Milk",
+            "price": 2.50,
+            "img": ""
+        },
+        {
+            "item": "Yoghurt",
+            "price": 3.50,
+            "img": ""
+        },
+        {
+            "item": "Flour (2kg - organic)",
+            "price": 6.50,
+            "img": ""
+        },
+        {
+            "item": "Sunflower oil",
+            "price": 6.50,
+            "img": ""
+        }
+    ],
+    "vegeLegumeList": [
+        {
+            "item": "Pears",
+            "price": 2.00,
+            "price-type": "each",
+            "img": ""
+        },
+        {
+            "item": "Potatoes",
+            "price": 1.00,
+            "price-type": "per-pound",
+            "img": ""
+        }
+    ]
+
+}
+
+
+
+
+
